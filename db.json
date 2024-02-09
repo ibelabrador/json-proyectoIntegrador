@@ -1,0 +1,33 @@
+{
+    "productos": [],
+    "carrito": [
+      {
+        "id": 1,
+        "idProducto": "1",
+        "codigo": "",
+        "nombre": "",
+        "precio": "",
+        "talla": "",
+        "color": "",
+        "variaciones": "talla y color",
+        "cantidad": 1,
+        "imagen": "",
+        "total": "precio x cantidad"
+      }
+    ],
+    "compras": [
+      {
+        "id": "puede ser la orden",
+        "nombre": "",
+        "telefono": "",
+        "direccion": "",
+        "correo": "",
+        "numeroTarjeta": "",
+        "fechaCompra": "",
+        "fechaCaducidad": "",
+        "cvv": "",
+        "total": "",
+        "productos": "meter todo tal cual del carrito"
+      }
+    ]
+  }
