@@ -1,0 +1,193 @@
+{
+    "productos": [
+        {
+          "id": 1,
+          "nombre": "Luxury Gems Necklace",
+          "codigo": "A001",
+          "precioUnitario": 168.76,
+          "tipoAccesorio": "collar",
+          "imagenes": ["../assets/luxury_gems_necklace.png"],
+          "descripcion": "Collar de gemas de lujo",
+          "stockPorColorTalla": [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Aurora Ring",
+          "codigo": "A002",
+          "precioUnitario": 125.28,
+          "tipoAccesorio": "anillo",
+          "imagenes": ["../assets/Aurora-Ring.png"],
+          "descripcion": "Anillo aurora",
+          "stockPorColorTalla":  [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 3,
+          "nombre": "Reflection Necklace",
+          "codigo": "A003",
+          "precioUnitario": 620.73,
+          "tipoAccesorio": "collar",
+          "imagenes": ["../assets/Reflection-Necklace.png"],
+          "descripcion": "Collar Reflectante",
+          "stockPorColorTalla": [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 4,
+          "nombre": "Dreamy-Infinity-Ring",
+          "codigo": "A004",
+          "precioUnitario": 321.71,
+          "tipoAccesorio": "anillo",
+          "imagenes": ["../assets/Dreamy-Infinity-Ring.png"],
+          "descripcion": "anillo infinito de ensueño",
+          "stockPorColorTalla":  [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "Opulent Jewels Ring",
+          "codigo": "A005",
+          "precioUnitario": 168.76,
+          "tipoAccesorio": "anillo",
+          "imagenes": ["../assets/Opulent-Jewels-Ring.png"],
+          "descripcion": "anillo de joyas opulentas",
+          "stockPorColorTalla":  [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 6,
+          "nombre": "Serene Solitaire Earrings",
+          "codigo": "A006",
+          "precioUnitario": 125.28,
+          "tipoAccesorio": "aretes",
+          "imagenes": ["../assets/Serene-Soliraire-Earrings.png"],
+          "descripcion": "anillos solitarios serenos",
+          "stockPorColorTalla":  [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 7,
+          "nombre": "Timeless Halo Earrings",
+          "codigo": "A007",
+          "precioUnitario": 620.73,
+          "tipoAccesorio": "aretes",
+          "imagenes": ["../assets/Timeless-Halo-Earrings.png"],
+          "descripcion": "pendientes de halo atemporales",
+          "stockPorColorTalla":  [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 8,
+          "nombre": "Exquisite Earrings",
+          "codigo": "A008",
+          "precioUnitario": 327.71,
+          "tipoAccesorio": "aretes",
+          "imagenes": ["../assets/Exquisite-Earrings.png"],
+          "descripcion": "pendientes exquisitos",
+          "stockPorColorTalla":  [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+      
+        {
+          "id": 9,
+          "nombre": "Luxury Charms Ring",
+          "codigo": "A010",
+          "precioUnitario": 620.73,
+          "tipoAccesorio": "anillo",
+          "imagenes": ["../assets/Luxury-Charms-Ring.png"],
+          "descripcion": "anillo de gemas de lujo",
+          "stockPorColorTalla": [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 10,
+          "nombre": "Blissful Bloom Rings",
+          "codigo": "A011",
+          "precioUnitario": 620.73,
+          "tipoAccesorio": "anillo",
+          "imagenes": ["../assets/Blissful-Bloom-Ring.png"],
+          "descripcion": "Anillos de floración dichosa",
+          "stockPorColorTalla": [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+         " id": 11,
+          "nombre": "Sparkling Ring",
+          "codigo": "A012",
+          "precioUnitario": 620.73,
+          "tipoAccesorio": "anillo",
+          "imagenes": ["../assets/Sparking-Ring.png"],
+          "descripcion": "anillo brillante",
+          "stockPorColorTalla": [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        },
+        {
+          "id": 12,
+          "nombre": "Glimmering Ring",
+          "codigo": "A013",
+          "precioUnitario": 620.73,
+          "tipoAccesorio": "anillo",
+          "imagenes": ["../assets/Glimmering-Ring.png"],
+          "descripcion": "anillo brillante",
+          "stockPorColorTalla": [
+            { "color": "rubi", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] },
+            { "color": "dorado", "tallas": [48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70] }
+          ]
+        }
+      ],
+
+    "carrito": [
+      {
+        "id": 1,
+        "idProducto": "1",
+        "codigo": "",
+        "nombre": "",
+        "precio": "",
+        "talla": "",
+        "color": "",
+        "variaciones": "talla y color",
+        "cantidad": 1,
+        "imagen": "",
+        "total": "precio x cantidad"
+      }
+    ],
+    
+    "compras": [
+      {
+        "id": "puede ser la orden",
+        "nombre": "",
+        "telefono": "",
+        "direccion": "",
+        "correo": "",
+        "numeroTarjeta": "",
+        "fechaCompra": "",
+        "fechaCaducidad": "",
+        "cvv": "",
+        "total": "",
+        "productos": "meter todo tal cual del carrito"
+      }
+    ]
+  }
